@@ -1,0 +1,9 @@
+tkinter
+io
+filedialog
+messagebox
+cv2
+numpy
+requests
+PIL
+ImageTk
